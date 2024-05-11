@@ -1,4 +1,3 @@
-Плыш, [11.05.2024 17:52]
 <div align="center">
        <div align="center">
            <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=380&height=70&duration=4000&lines=Hi+There!+👋" />
@@ -57,7 +56,6 @@
            <img width="380" src="https://github-readme-stats-salesp07.vercel.app/api?username=maksim-plysheuski&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
            <br/>
 
-Плыш, [11.05.2024 17:52]
 <a href="https://www.codewars.com/users/maksim-plysheuski" target="_blank">
                <img width="380" src="https://www.codewars.com/users/maksim-plysheuski/badges/large" alt="code-wars">
            </a>
